@@ -1,0 +1,11 @@
+.ui.borderless.topmenu.menu {
+  padding-left: 150px;
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  background-color: #d3d3d3;
+  padding-top: 15px;
+  color: gray;
+}
